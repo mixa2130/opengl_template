@@ -3,6 +3,7 @@
 cmake-build-debug
 smth*
 main*
+check*
 
 # Prerequisites
 *.d
